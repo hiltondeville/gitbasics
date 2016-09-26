@@ -55,6 +55,20 @@
             <li>git commit</li>
           </ul>
 
+          <h4>Change versions</h4>
+
+          <ul>
+            <li>git log</li>
+            <p>
+              Gives you commit unique reference and what order they occurred in, author, time etc
+            </p>
+            <li>Git checkout</li>
+            <li>git checkout 'fbeddc'</li>
+            <p>
+              Tell Git the first five or six characers of the commit
+            </p>
+          </ul>
+
 
 </div>
 </div>
