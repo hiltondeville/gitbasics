@@ -38,6 +38,23 @@
 
           </ul>
 
+          <h4>The staging area</h4>
+
+          <ul>
+            <li>git status</li>
+            <p>
+              This tells you the files that have a status to give, if file has not been changed then info wont show
+            </p>
+            <li>touch file1</li>
+            <li>touch file2</li>
+            <p>
+              touch creates a file
+            </p>
+            <li>git add file1</li>
+            <li>git add file2</li>
+            <li>git commit</li>
+          </ul>
+
 
 </div>
 </div>
