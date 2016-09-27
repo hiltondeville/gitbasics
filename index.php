@@ -101,7 +101,21 @@
               The second address could easily be a network or url address. Now the two copies can communicate
             </p>
           </ul>
-
+          <h4>Pushing and pulling</h4>
+          <ul>
+            <li>To push: git push</li>
+            <p>
+              If you create a new branch in the cloned project, you explicitly have to tell it thats what you're doing
+            </p>
+            <li>git push origin newbranch</li>
+            <p>
+              The new feature will now be available in the original project
+            </p>
+            <li>Git Pull</li>
+            <p>
+              git pull origin newbranch
+            </p>
+          </ul>
 </div>
 </div>
 
