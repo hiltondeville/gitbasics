@@ -68,7 +68,27 @@
               Tell Git the first five or six characers of the commit
             </p>
           </ul>
-
+          <h4>Branches</h4>
+          <ul>
+            <li>git branch branchname : create a branch named branchname</li>
+            <li>git checkout branchname : change to that branchname</li>
+            <li>git checkout -b branchname</li>
+            <p>
+              create a branch named branchname and then switch to it at the same time
+            </p>
+            <li>git branch : show all branches</li>
+            <li>git branch -D : delete branch, delete from master</li>
+          </ul>
+          <h4>Merging</h4>
+          <ul>
+            <p>
+              Git merges branches and tries to resolve issues as it goes along
+            </p>
+            <li>git merge branchname</li>
+            <p>
+              Merge the history from branchname into the current branch
+            </p>
+          </ul>
 
 </div>
 </div>
