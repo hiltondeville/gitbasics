@@ -89,6 +89,18 @@
               Merge the history from branchname into the current branch
             </p>
           </ul>
+          <h4>Remote repositories</h4>
+          <ul>
+            <li>git clone my_really_cool_project our_clone_project</li>
+            <p>
+              The clone will be placed wherever you choose
+            </p>
+            <li>git remote : gives you all the available remote repositories, creates origin automatically</li>
+            <li>git remote add our_clone our_clone_project</li>
+            <p>
+              The second address could easily be a network or url address. Now the two copies can communicate
+            </p>
+          </ul>
 
 </div>
 </div>
